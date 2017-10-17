@@ -3,7 +3,7 @@ Exercises for learning code
 
 1-Ice Cream Katas
 
-1-1 Conditionals prompt
+1-1 Conditionals Prompt
 
 1-2 While Loop
 
